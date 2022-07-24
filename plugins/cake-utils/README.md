@@ -1,5 +1,5 @@
 # Cake Utils
-###### All command of this plugin can only be used by OPs.
+###### All commands of this plugin can only be used by OPs.
 ### Invsee
 - ```/invsee <player>``` allows you to see and manipulate the inventory of a player.
 ### Serverlock
