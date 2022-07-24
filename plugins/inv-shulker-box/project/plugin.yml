@@ -1,0 +1,5 @@
+name: InvShulkerBox
+version: 1.0
+main: de.lennektro.invshulkerbox.Main
+api-version: 1.18
+author: Lennektro

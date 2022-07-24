@@ -1,0 +1,9 @@
+name: AnyHat
+version: 1.0
+main: de.lennektro.anyhat.Main
+api-version: 1.18
+author: Lennektro
+
+commands:
+   hat:
+      usage: /<command>

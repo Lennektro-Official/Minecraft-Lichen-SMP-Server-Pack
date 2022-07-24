@@ -1,0 +1,5 @@
+name: GraveStoned
+version: 1.0
+main: de.lennektro.gravestoned.Main
+api-version: 1.18
+author: Lennektro

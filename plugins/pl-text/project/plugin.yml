@@ -1,0 +1,5 @@
+name: PLText
+version: 1.0
+main: de.lennektro.pltext.Main
+api-version: 1.18
+author: Lennektro

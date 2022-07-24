@@ -1,0 +1,10 @@
+name: TooSocial
+version: 1.0
+main: de.lennektro.toosocial.Main
+api-version: 1.18
+author: Lennektro
+
+commands:
+   status:
+   ncolor:
+   

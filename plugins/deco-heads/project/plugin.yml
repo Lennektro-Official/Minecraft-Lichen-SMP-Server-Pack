@@ -1,0 +1,5 @@
+name: DecoHeads
+version: 1.0
+main: de.lennektro.decoheads.Main
+api-version: 1.18
+author: Lennektro

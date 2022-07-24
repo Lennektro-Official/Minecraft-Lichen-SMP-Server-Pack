@@ -1,0 +1,11 @@
+name: Boox
+version: 1.0
+main: de.lennektro.boox.Main
+api-version: 1.18
+author: Lennektro
+
+commands:
+   rules:
+      usage: /<command>
+   news:
+      usage: /<command>

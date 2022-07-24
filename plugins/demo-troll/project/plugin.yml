@@ -1,0 +1,9 @@
+name: DemoTroll
+version: 1.0
+main: de.lennektro.demotroll.Main
+api-version: 1.18
+author: Lennektro
+
+commands:
+   demotroll:
+   

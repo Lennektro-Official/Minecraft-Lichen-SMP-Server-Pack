@@ -1,0 +1,5 @@
+name: ImprovedArmorStands
+version: 1.0
+main: de.lennektro.improvedarmorstands.Main
+api-version: 1.18
+author: Lennektro

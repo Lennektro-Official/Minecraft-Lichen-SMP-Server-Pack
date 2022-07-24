@@ -1,0 +1,21 @@
+{
+   "providers": [
+      {
+         "type": "ttf",
+         "file": "font_magic:negative_spaces.ttf",
+         "shift": [
+            0.0,
+            0.0
+         ],
+         "size": 10.0,
+         "oversample": 1.0
+      },
+      {
+         "type": "bitmap",
+         "file": "font_magic:tablist_header.png",
+         "ascent": 5,
+         "height": 42,
+         "chars": ["\ue400"]
+      }
+   ]
+}

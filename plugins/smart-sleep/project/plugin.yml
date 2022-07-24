@@ -1,0 +1,5 @@
+name: SmartSleep
+version: 1.0
+main: de.lennektro.smartsleep.Main
+api-version: 1.18
+author: Lennektro

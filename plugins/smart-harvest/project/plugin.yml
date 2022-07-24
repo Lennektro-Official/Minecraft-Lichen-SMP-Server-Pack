@@ -1,0 +1,5 @@
+name: SmartHarvest
+version: 1.0
+main: de.lennektro.smartharvest.Main
+api-version: 1.18
+author: lennektro

@@ -1,0 +1,5 @@
+name: PleasentLadders
+version: 1.0
+main: de.lennektro.improvedladders.Main
+api-version: 1.18
+author: Lennektro
