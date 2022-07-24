@@ -1,0 +1,9 @@
+header:
+- '\ue400   '
+- '   '
+- '   '
+- '   '
+- '   '
+footer:
+- '   '
+- '&7TPS: %tps_colored% &8| &7Players: &3%players_online%/%max_players%'

@@ -1,0 +1,10 @@
+recipe:
+  keys:
+  - G
+  - I
+  G: GLASS_PANE
+  I: ITEM_FRAME
+  row1: GGG
+  row2: GIG
+  row3: GGG
+modeldata: 1
