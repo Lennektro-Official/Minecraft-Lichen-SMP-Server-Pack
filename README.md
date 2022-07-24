@@ -20,4 +20,4 @@ The Lichen SMP is a little minecraft server project that I created for me and my
 ### Resource Pack
 The Resource Pack contains a texture for the Glass Item Frames and a Lichen SMP logo for the player list. It's totally optional but adds a nice little touch. The char for the logo is ```\ue400``` which is also the only unicode char PL Text supports. You can just download the zip and put it in your resourcepacks directory.
 ### Author's Config
-The directory *authors_config* contains all the config files of the plugins how I use them on my server.
+The directory *authors_config* contains most of the config files of the plugins how I use them on my server.
