@@ -4,4 +4,4 @@ msg:
   laydown: §7%player% -> §b%sleeping%§1/§b%required% §esleeping. (§b%online% §eonline)
   standup: §7%player% <- §b%sleeping%§1/§b%required% §esleeping. (§b%online% §eonline)
   count: ''
-  newmorning: §aGuten Morgen!
+  newmorning: §aGood Morning!
