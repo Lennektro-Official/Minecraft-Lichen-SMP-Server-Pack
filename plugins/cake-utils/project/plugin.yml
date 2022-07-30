@@ -1,0 +1,13 @@
+name: CakeUtils
+version: 1.0
+main: de.lennektro.cakeutils.Main
+api-version: 1.18
+author: Lennektro
+
+commands:
+   invsee:
+   serverlock:
+   spawnprot:
+   caketools:
+   acm:
+   
