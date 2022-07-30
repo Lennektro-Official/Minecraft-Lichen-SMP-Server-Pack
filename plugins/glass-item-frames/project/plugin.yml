@@ -1,0 +1,5 @@
+name: GlassItemFrames
+version: 1.0
+main: de.lennektro.glassitemframes.Main
+api-version: 1.18
+author: Lennektro
